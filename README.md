@@ -1,5 +1,7 @@
 # Java CLI Contact Management System
 
+updated version
+
 ## About The Project
 
 This project is a comprehensive, console-based Contact Management System built entirely in Java. It serves as a practical demonstration of core Object-Oriented Programming (OOP) principles, including encapsulation, and data management using `ArrayLists`.
